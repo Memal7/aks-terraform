@@ -1,1 +1,1 @@
-# Deploy and manage Azure Kuberentes Service (AKS) with Terraform
+# Deploy and manage Azure Kubernetes Service (AKS) with Terraform
